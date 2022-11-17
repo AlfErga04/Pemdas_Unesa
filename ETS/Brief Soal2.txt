@@ -1,0 +1,34 @@
+# Brief
+.
+Seorang pengajar marah karena tingkat kedisiplinan peserta kuliah rendah. Oleh karena itu,
+pengajar tersebut menerapkan sebuah aturan sederhana, yakni beliau akan membatalkan kelas 
+ketika jumlah peserta yang hadir tepat waktu lebih kurang dari jumlah minimum peserta yang
+ditetapkan. Jumlah minimum tersebut diperoleh dari prosentase minimal peserta dikalikan
+jumlah peserta kuliah dan menggunnakan pembulatan ke bawah. Pengajar juga memberikan toleransi
+keterlambatan kepada peserta kuliah. Buatlah program untuk membantu pengajar dalam memutuskan
+keberlanjutan kelas yang diajarnya! (30 poin)
+.
+Contoh Input:
+Jumlah Case = 2
+Jumlah peserta kuliah ke-1 = 4
+Presentase minimal peserta pada kuliah ke-1 = 0.9
+Batas terlambat mahasiswa kuliah ke-1 = 15
+Waktu masuk peserta ke-1 pada kuliah ke-1 = -20
+Waktu masuk peserta ke-2 pada kuliah ke-1 = -10
+Waktu masuk peserta ke-3 pada kuliah ke-1 = 20
+Waktu masuk peserta ke-4 pada kuliah ke-1 = 18
+Jumlah peserta kuliah ke-2 = 4  
+Presentase minimal peserta pada kuliah ke-2 = 0.6
+Batas terlambat mahasiswa kuliah ke-2 = 10
+Waktu masuk peserta ke-1 pada kuliah ke-2 = 0
+Waktu masuk peserta ke-2 pada kuliah ke-2 = -10
+Waktu masuk peserta ke-3 pada kuliah ke-2 = 30
+Waktu masuk peserta ke-4 pada kuliah ke-2 = 11
+.
+Contoh Jwbn:
+Jumlah peserta yang hadir tepat waktu di kelas ke-1 = 2
+Jumlah peserta minimal yang harus hadir di kelas ke-1 = 3
+Kelas ke-1 dibatalkan
+Jumlah peserta yang hadir tepat waktu di kelas ke-2 = 2
+Jumlah peserta minimal yang harus hadir di kelas ke-2 = 2
+Kelas ke-2 dilanjutkan
