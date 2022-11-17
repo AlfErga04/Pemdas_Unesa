@@ -1,0 +1,19 @@
+# Brief
+.
+Sebuah pohon di negeri 4 musim mengalami pertumbuhan di setiap musimnya. Pada musim dingin
+pohon bertumbuh 1/2 kalinya, musim panas dan dingin membuat pohon bertumbuh 1 meter,
+sedangkan pohon bertumbuh pesat pada musim semi menjadi 2 kali dari tinggi sebelumnya.
+Jika negeri tersebut mengalami siklus musim yang berurutan dan berulang antara semi, panas,
+gugur, dan dingin maka berapa tinggi pohon ketika diberikan t (tinggi awal pohon) dan n (
+jumlah siklus musim)? Buatlah program untuk menghitungnya (20 poin)
+.
+.
+Contoh  : t=1, n=5
+Siklus  Musim  Tinggi
+0         -       1
+1       Semi      2
+2       Panas     3
+3       Gugur     4
+4       Dingin    6
+5       Semi      12
+Jwbn: 12
