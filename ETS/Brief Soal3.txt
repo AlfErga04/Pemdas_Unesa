@@ -1,0 +1,24 @@
+#Brief
+.
+Anda berharap untuk membeli sebuah kado dengan promo diskon Halloween. Harga
+normal sebuah kado adalah (h) rupiah. Pada event ini toko tersebut berencana
+memberikan potongan harga (d) dari harga sebelumnya. Potongan harga ini berlaku
+untuk pembelian ke-2 dan akan dibulatkan ke bawah. Potongan harga tersebut dilakukan
+sampai harga minimum (m) dari kado yang telah ditetapkan. Buatlah program untuk menghitung
+jumlah kado yang dapat dibeli jika diberikan sejumlah uang (u) (20 POIN)
+.
+.
+Contoh input:
+h = 20.000
+d = 0,3
+m = 10.000
+u = 50.000
+//prototype proses
+Pembelian   Harga   Diskon  Sisa uang
+0           -       -       50.000
+1           20.000  0       30.000
+2           14.000  6.000   16.000
+3           10.000  3.000   6.000
+4           10.000  3.000   uang tidak cukup
+.
+Contoh Output: "yang dapat dibeli adalah: " 3 kado
