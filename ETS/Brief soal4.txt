@@ -1,0 +1,22 @@
+#Brief
+.
+Anda dan pasangan Anda sering berbelanja secara rutin dalam suatu nilai yang
+tetap (a) dan (pa) dalam sebuah toko. Pada event Valentine, toko tsb memberikan
+sebuah promo potongan harga sebesar (d) /dalam persen. Ketika jumlah akumulasi
+pembelian pertama Anda yang sama dengan pasangan Anda. Buatlah program untuk
+menentukan waktu pembelian ke berapa dari pembelian Anda dan pasangan Anda ketika
+memperoleh diskon serta menghitung diskon yang diperoleh dari masing-masing pembeli! (30 POIN)
+.
+.
+Contoh Input:
+a = 14.000
+pa = 35.000
+d = 0,2
+Harga = 70.000
+Jumlah pembelian a = 5
+Jumlah pembelian pa = 2
+diskon harga = 14.000
+.
+.
+//Brief yang diberikan ke saya hanya berhenti sampai disitu, maaf atas ketidaklengkapan jadi coding soal4.cpp hanya dibuat
+menyesuaikan dengan brief yang sudah diberikan seadanya
